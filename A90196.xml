@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Orthodox state-queries, presented to all those who retain any sparks of their ancient loyalty.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90196</idno>
+            <idno type="STC">Wing O504</idno>
+            <idno type="STC">ESTC R211576</idno>
+            <idno type="EEBO-CITATION">45097880</idno>
+            <idno type="OCLC">ocm 45097880</idno>
+            <idno type="VID">171459</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90196)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171459)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2575:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Orthodox state-queries, presented to all those who retain any sparks of their ancient loyalty.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Philo-Basileuticus Verax.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Restoration, 1660-1688.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+               <term>Great Britain --  Politics and government --  1649-1660.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:171459:1" rendition="simple:additions"/>
+            <head>Orthodox State-Queries, Preſented to all thoſe who retain any Sparks of their ANCIENT LOYALTY.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>
+               <hi>WE preſume again to kiſs your hands, according to our promiſe; and although (like the Faſhion-Mongers of the times) we have put on a different garb; we hope the Crime is</hi> venial, <hi>for that we thought it convenient, ſince our preſent Subject is grave and weighty, (though but ſlightly handled) not to appear in our Fanatique Dreſs.</hi>
+            </p>
+            <p>LEt every rational man that is not blinded with ignorance, or carried away by ſelf-intereſt, in plain Engliſh, that is not branded with the Title of Fool or Knave, conſider, whether (as the caſe now ſtands) theſe, or the like <hi>Queries</hi> may not very fitly be propounded.</p>
+            <p n="1">1 Whether the generality of the people of <hi>England</hi> are not experimentally ſen<g ref="char:EOLhyphen"/>ſible of their great folly and madneſs, in oppoſing their lawful King, either direct<g ref="char:EOLhyphen"/>ly, in their own perſons, or indirectly, by any way aiding or abetting his enemies: And whether their intrenching upon his Prerogatives, were not an inrode to the throwing down the hedge of their own proper Rights, Priviledges, and Freedoms?</p>
+            <p n="2">2 Whether the Author of the <hi>
+                  <g ref="char:V">Ʋ</g>topian</hi> Commonwealth, ſtiled the <hi>Rota,</hi> may not be thought to have a rotation in his <hi>Pericranium;</hi> and whether it be not probable that his wit is waſting, and may be truſſed up in an Egg-ſhell, ſince his books do paſs but for waſte paper?</p>
+            <p n="3">3 Whether it be not an act of great imprudence, novelty, and innovation in a<g ref="char:EOLhyphen"/>ny, to endeavour the introduction of a ſtrange Government in theſe Nations, con<g ref="char:EOLhyphen"/>trary to the Genius and complexion of the people; and whether Gen. <hi>Monk</hi> can do any thing more pleaſing to God, and more acceptable to his Country, then to reſtore unto it its antient Monarchical Government, being to be preferred before all others, and that which is not only exerciſed by God himſelf, but (as Natura<g ref="char:EOLhyphen"/>liſts obſerve) by almoſt all the creatures?</p>
+            <p n="4">4 Whether ſince Monarchy is generally concluded to be the beſt of Govern<g ref="char:EOLhyphen"/>ments, the Engliſh Monarchy may not challenge a precedency before all others, Chri<g ref="char:EOLhyphen"/>ſtian or Heathen, ſith its power is not abſolute in all caſes, but admits of a Parlia<g ref="char:EOLhyphen"/>ment conſiſting of Peers and Commons, whereof the King is the Head, by which Parliament all grievances whatſoever are redreſſed and amended, whether relating to Prince or people; and all things neceſſary to the mutual ſupport of the King, Peers, and Commonalty provided? A moſt excellent conſtitution of three Eſtates, the ſecond being equally concerned in both the other, and in prudence as well as Juſtice, obliged to defend the Dignities and Prerogatives of the firſt, with the pri<g ref="char:EOLhyphen"/>viledges and Freedomes of the third.</p>
+            <p n="5">5 Whether any reaſonable man can expect that theſe Nations can be eſtabliſhed in a condition of peace and happineſs, until they be ſettled upon their old Baſis a<g ref="char:EOLhyphen"/>gain, which is the <hi>Good Old Cauſe</hi> indeed, every honeſt Chriſtian, and true Son of them, ought earneſtly to pray and contend for.</p>
+            <p n="6">6 Whether this preſent Parliament, notwithſtanding the readmiſſion of the Members ſecluded in 48. in caſe they do not act in order to a ſpeedy bringing in of their lawful exiled King, may not as fitly be called a <hi>Rump,</hi> (though of a larger ſize) as the former, ſince they are but the lower parts, the upper part of the body, together with the head, being ſtill wanting? And whether if they do not be<g ref="char:EOLhyphen"/>gin, where they left off, in receiving the Son, according to their Articles with the Father, at the Iſle of <hi>Wight</hi> (being the moſt probable way of reſtoring theſe almoſt ruined Nations to their priſtine flouriſhing condition) they do not ſtigma<g ref="char:EOLhyphen"/>tize themſelves with all thoſe indelible marks of Infamy, Injuſtice, and oppreſſion, which Mr. <hi>Prynne</hi> (a Member of them) hath ſo manifeſtly by the Laws of God, Nature, and the Land, proved the little <hi>Rump</hi> to be highly guilty of?</p>
+            <p n="7">7 Whether it be conſiſtent with Religion, Equity, or common reaſon, that the Free-born people of <hi>England,</hi> &amp;c. ſhould ſubmit to a new kind of Government, by way of a Commonwealth, or otherwiſe, (being not only againſt the grain of their affections, but alſo of their apprehenſions) meerly to ſupport the unjuſt intereſts of ſome particular men in the three Nations, who have advanc'd them<g ref="char:EOLhyphen"/>ſelves by the ruines of our Church and Crown; and in caſe theſe Purchaſers (con<g ref="char:EOLhyphen"/>ſidering their fat penniworths) ſhould be compelled to a reſtitution of their unlaw<g ref="char:EOLhyphen"/>ful and ſacrilegious poſſeſſions, it be not more then an even lay, they would prove no looſers?</p>
+            <p n="8">8 Whether <hi>Charles Stuart,</hi> ſince it hath pleaſed God to lead him through a ſeries of ſuch various kinds of providences, and to indue him with a ſpirit of admired moderation on the one hand, as well as continual patience on the other, be not in great reaſon to be judged as fit a perſon (of his age) to ſway a Scepter, as any Prince in Chriſtendome?</p>
+            <p n="9">9 Whether the foreſaid <hi>Charles</hi> be not (as was his Father before him) the firm<g ref="char:EOLhyphen"/>eſt Adherer to the true Proteſtant Religion in the world, who (notwithſtanding the many and great temptations to Popery, proceeding from his adverſe fortune, the malice of his enemies, the alluring promiſes of ſeveral Catholique Princes, toge<g ref="char:EOLhyphen"/>ther with his Holineſs of <hi>Rome,</hi> to furniſh him with men and moneys to regain his Kingdomes) continues fixt and immoveable to his firſt principles and profeſſion, wherein he was educated from his Infancy?</p>
+            <p n="10">10 Whether ſince (as Mr. <hi>Prynne</hi> evidently demonſtrates) all our diviſions and diſtractions have been chiefly fomented by Popiſh Emiſſaries and Jeſuites, who tri<g ref="char:EOLhyphen"/>umphed at the beheading and horrid murder of the late King, concluding that then their work was done, he being the Defender of our Faith, and under God, the Keeper and Preſerver of his holy Vineyard, the Church, there can any way be found out by the wit of man ſo expedient for the healing up of our breaches, both in Church and State, and the reſtoring of unity, peace, and order amongſt us, as the eſtabliſhment of his Son upon his Throne?</p>
+            <p n="11">11 Whether the trading of the City of <hi>London</hi> were ever at a lower ebbe (ſince the memory of man) then it is at this day; and whether it be not moſt juſt with God to inflict upon her thoſe lamentable Judgements of Sword and Famine, who was the greateſt cauſe of all theſe ſad calamities that befel theſe Nations in the late Wars, and whoſe hands were deeply imbrued in Her Soveraigns blood, until ſuch time as ſhe hath been truly humbled for theſe hainous crimes, and ſhall to Her utmoſt ability recompence her wrongs and Rebellion againſt Her Martyred King, by Her beneficence to his whole Poſterity, and Her moſt ſtrennuous endea<g ref="char:EOLhyphen"/>vour to enthrone him that ('tis not to be doubted) in Gods due time muſt and will be his Succeſſor?</p>
+            <p n="12">12 Whether it be not a duty incumbent upon every true Chriſtian that deſires the glory of God, and the peace and proſperity of the three Nations, to offer up daily Sacrifices of Prayer to the Almighty, that he would be pleaſed to bleſs King <hi>Charles,</hi> to ſettle him upon his Throne, to make him a Nurſing Father to our de<g ref="char:EOLhyphen"/>plorable and almoſt ruined Church, and to put an end to theſe diſmal dayes of Blood, Rapine, and Oppreſſion; which will never be, untill that happy and long-wiſht-for time come, when all Free-born honeſt hearts ſhall throw up their hats in<g ref="char:EOLhyphen"/>to the ayr with loud acclamations, and rend the very Skies with the noyſe of</p>
+            <closer>God ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>Philo-Baſileuticus Verax.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
